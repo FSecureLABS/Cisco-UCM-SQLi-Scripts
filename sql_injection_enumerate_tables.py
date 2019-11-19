@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# Author - Ken Gannon of F-Secure
 import requests
 import time
 
